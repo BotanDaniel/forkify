@@ -1,6 +1,6 @@
+import View from './View.js';
 import icons from 'url:../../img/icons.svg';
 import { Fractional } from 'fractional';
-console.log(Fractional);
 
 class RecipeView {
   #parentElemet = document.querySelector('.recipe');
